@@ -18,7 +18,6 @@ setup(
     install_requires=[
         'requests',
         'fairseq',
-        'torch>=1.6',
         'numpy',
         'numba',
     ],

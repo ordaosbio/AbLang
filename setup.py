@@ -17,7 +17,6 @@ setup(
     packages=find_packages(include=('ablang', 'ablang.*')),
     install_requires=[
         'requests',
-        'fairseq',
         'numpy',
         'numba',
     ],
